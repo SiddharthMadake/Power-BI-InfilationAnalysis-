@@ -1,1 +1,2 @@
 # Power-BI-InfilationAnalysis-
+Inflation is a key economic indicator that significantly impacts businesses, consumers, and policymakers. A multinational corporation operating in diverse markets seeks to optimize pricing strategies, mitigate risks, and make informed investment decisions. By leveraging Power BI’s analytical capabilities, this project aims to provide tailored insights into inflation trends, ensuring data-driven decision-making across different markets.
